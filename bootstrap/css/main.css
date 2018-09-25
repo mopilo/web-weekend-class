@@ -1,0 +1,13 @@
+h1 {
+    color: blue
+}
+
+p {
+    color: red
+}
+
+.btn-success{
+    background-color: brown;
+    border-color: brown;
+    border-radius: 10px
+}
